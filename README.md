@@ -22,6 +22,7 @@ backlog of things across entire spectrum of my activities
 - [where to work next](./categories/where-to-work-next.md)
 - [music to discover](./categories/music-to-discover.md)
 - [chess](./categories/chess.md)
+- [web development](./categories/web-development.md)
 
 ## license
 
