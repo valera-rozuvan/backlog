@@ -5,6 +5,7 @@ Very thorough articles and documents I come across, and want to revisit later.
 ## Physics
 
 1. [What Does Any of This Have To Do with Physics?](https://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics)
+2. [The Admiral of the String Theory Wars](https://nautil.us/issue/24/error/the-admiral-of-the-string-theory-wars)
 
 ## C Programming
 
@@ -16,3 +17,4 @@ Very thorough articles and documents I come across, and want to revisit later.
 
 1. [Dynamics of Polygons](http://dynamicsofpolygons.org/)
 2. [A Crisis of Identification](https://inference-review.com/article/a-crisis-of-identification)
+3. [Doing Mathematics Differently](https://inference-review.com/article/doing-mathematics-differently)
